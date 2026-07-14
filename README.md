@@ -1,7 +1,7 @@
 # Griffith Technology Solutions
 
 Independent software consultancy in Albuquerque, New Mexico. Run by
-[Tyler Griffith](www.linkedin.com/in/tyler-griffith-7a927912a).
+[Tyler Griffith](https://www.linkedin.com/in/tyler-griffith-7a927912a).
 
 Available for contract engineering: legacy .NET modernization, distributed systems, and API design.
 
